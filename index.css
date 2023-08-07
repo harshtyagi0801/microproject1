@@ -1,0 +1,23 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.grid-container{
+   display: grid;
+    /* border: 2px solid greenyellow; */
+    padding: 10px;
+    background-color: #FFCD9E;
+    grid-template-columns: 50% 50%;
+}
+.grid-item{
+
+}
+.container{
+    color: rgb(194, 187, 187);
+    display: grid;
+   
+    padding: 10px;
+    background-color: black;
+    grid-template-columns: 50% 50%;
+}
+
